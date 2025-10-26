@@ -1,4 +1,9 @@
-## Hi there 👋
+### 👋 Hi, I’m John!
+
+I’m a software engineer on **Salesforce AI Cloud’s [Prompt Builder](https://www.salesforce.com/artificial-intelligence/prompt-builder/)** team 💡.
+
+🎓 I graduated from **Brown University** with a double major in **Computer Science** and **Statistics**.  
+🏈 My most recent major personal project was my undergraduate CS honors thesis, which used computer vision and ML to predict offensive play calls in college football — you can check it out [here](https://cs.brown.edu/media/filer_public/2b/77/2b7792b0-3559-44fa-b7d9-f7572e1c3db5/chungjohn.pdf)!
 
 <!--
 **johnchung1010/johnchung1010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
